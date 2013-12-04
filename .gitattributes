@@ -11,5 +11,7 @@
 /autogen.sh -text
 /configure.ac -text
 /modes.xml -text
+texts/aluminii.raw.txt -text svneol=unset#application/octet-stream
+texts/aluminii.tagged.txt -text
 texts/caesar.raw.txt -text svneol=unset#application/octet-stream
 texts/caesar.tagged.txt -text
