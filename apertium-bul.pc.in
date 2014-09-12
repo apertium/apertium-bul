@@ -1,7 +1,9 @@
-prefix=${prefix}
+prefix=@prefix@
 exec_prefix=${prefix}
-libdir=${exec_prefix}/lib
+libdir=@libdir@
+dir=@libdir@/apertium/apertium-bul
+srcdir=@datarootdir@/apertium/apertium-bul
 
 Name: apertium-bul
-Description: Finite-state morphological transducer and constraint grammar for Bulgarian 
-Version: 0.1.0
+Description: Finite-state morphological transducer and constraint grammar for Bulgarian
+Version: @VERSION@
