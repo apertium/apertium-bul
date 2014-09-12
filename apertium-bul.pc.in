@@ -1,4 +1,4 @@
-prefix=/home/fran/local
+prefix=${prefix}
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 
