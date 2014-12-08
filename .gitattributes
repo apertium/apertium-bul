@@ -11,7 +11,8 @@
 /autogen.sh -text
 /configure.ac -text
 dev/bul.wiktionary.adjectives.speling -text
-dev/bul.wiktionary.nouns.speling -text
+dev/bul.wiktionary.nouns.1.speling -text
+dev/bul.wiktionary.nouns.2.speling -text
 /modes.xml -text
 texts/aluminii.raw.txt -text svneol=unset#application/octet-stream
 texts/aluminii.tagged.txt -text
