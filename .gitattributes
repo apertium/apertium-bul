@@ -5,10 +5,13 @@
 /Makefile.am -text
 /NEWS -text
 /README -text
+/apertium-bul.bul.acx -text
 /apertium-bul.bul.dix -text
 /apertium-bul.bul.rlx -text
 /apertium-bul.pc.in -text
+/apertium-bul.post-bul.dix -text
 /autogen.sh -text
+/bul.prob -text
 /configure.ac -text
 dev/bul.wiktionary.adjectives.speling -text
 dev/bul.wiktionary.nouns.1.speling -text
