@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Bulgarian], [0.1.0], [francis.tyers@gmail.com], [apertium-bul], [http://wiki.apertium.org/wiki/Apertium-bul])
+AC_INIT([Apertium Bulgarian], [0.1.0], [francis.tyers@gmail.com], [apertium-bul], [https://wiki.apertium.org/wiki/Apertium-bul])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S
