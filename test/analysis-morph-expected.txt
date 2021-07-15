@@ -1,0 +1,10 @@
+[B_hYuxYHyYCB#0] ^жена/жена<n><f><sg><nom><ind>$
+[/B_hYuxYHyYCB]
+[aKY1sto_W1dE#0] ^всичко/всичко<prn><tot>/всички<adj><nt><sg><nom><ind>$ ^обичаме/*обичаме$ ^Марио/*Марио$^./.<sent>$
+[/aKY1sto_W1dE]
+[kSWI0xYgr6tU#0] ^нула/нула<num><mfn><sg><nom><ind>$
+[/kSWI0xYgr6tU]
+[vEeD7K9u322g#0] ^добра/добър<adj><f><sg><nom><ind>$ ^майка/майка<n><f><sg><nom><ind>$
+[/vEeD7K9u322g]
+[vPAE2Bthsf-r#0] ^тази/този<prn><dem><f><sg>$ ^книга/книга<n><f><sg><nom><ind>$
+[/vPAE2Bthsf-r]

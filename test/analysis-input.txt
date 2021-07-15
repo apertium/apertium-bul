@@ -1,0 +1,6 @@
+# https://wiki.apertium.org/wiki/Bulgarian_and_Greek/Pending_tests
+жена
+тази книга
+всичко обичаме Марио.
+добра майка
+нула
